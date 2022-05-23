@@ -1,4 +1,4 @@
-# landscape_classification
+# Landscape_classification
 Given an input image, classify the image in the following category:  'buildings': 0, 'forest': 1, 'glacier': 2, 'mountain': 3, 'sea': 4, 'street': 5.
 &lt;br> &lt;/br> 
 Above are the keys along with their tag (or value) are mentioned. A CNN model has been used with 3 Conv2D, 3 MaxPool2d, 1 Flatten, one dropout and 2 Dense layers.  &lt;br> &lt;/br>
